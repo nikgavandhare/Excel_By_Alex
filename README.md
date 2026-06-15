@@ -3,8 +3,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Data%20Analytics-Learning-blue?style=for-the-badge"/>
+  
   <img src="https://img.shields.io/badge/Portfolio-Project-success?style=for-the-badge"/>
+  
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
 </p>
 
